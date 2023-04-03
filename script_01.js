@@ -11,7 +11,7 @@ let isJohnOlder, isJohnEqual;
 
 // Test | Logische Aussage
 isJohnOlder = (ageJohn > ageMark);
-isJohnEqual = (ageJohn == ageMark)
+isJohnEqual = (ageJohn == ageMark);
 
 // Ausgabe
 console.log("ageJohn: " + ageJohn);
